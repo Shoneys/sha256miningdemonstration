@@ -8,7 +8,7 @@ def hashcash():
         In Bitcoin, the hash that needs to be solved is the new head for the block
 
         x would be the hash of the previous block
-        y would be the hash that solves the new block
+        y would be the nonce
         the amount of "0's" at the end of the string determines the difficulty of mining
             current difficulty of Bitcoin: https://blockexplorer.com/api/status?q=getDifficulty
         the new hash becomes the

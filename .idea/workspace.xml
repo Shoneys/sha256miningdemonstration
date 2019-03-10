@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SecureHashAlgorithm256_miningdemonstration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="408">
+              <caret line="24" column="67" lean-forward="true" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -125,12 +125,12 @@
       <workItem from="1549808108741" duration="14000" />
       <workItem from="1549816042334" duration="26000" />
       <workItem from="1549816544830" duration="140000" />
-      <workItem from="1552237112475" duration="3809000" />
+      <workItem from="1552237112475" duration="3956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5051000" />
+    <option name="totallyTimeSpent" value="5198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="204" y="0" width="1850" height="1118" extended-state="0" />
@@ -165,8 +165,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SecureHashAlgorithm256_miningdemonstration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="408">
+          <caret line="24" column="67" lean-forward="true" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
