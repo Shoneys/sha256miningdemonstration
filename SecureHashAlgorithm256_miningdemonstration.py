@@ -3,8 +3,6 @@ import time
 from hashlib import sha256
 
 
-# pip install hwcounter
-
 def hashcash():
     """
         In Bitcoin, the hash that needs to be solved is the new head for the block
